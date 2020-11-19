@@ -5,3 +5,4 @@ opencv-contrib-python==4.4.0.46
 pandas==0.25.1
 scikit-image==0.15.0
 scikit-learn==0.21.3
+Keras==2.3.1
